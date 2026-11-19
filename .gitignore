@@ -1,0 +1,10 @@
+# 编译产物，不进版本库
+*.exe
+*.o
+*.out
+a.exe
+
+# 编辑器/系统杂项
+.vscode/*.log
+Thumbs.db
+desktop.ini
